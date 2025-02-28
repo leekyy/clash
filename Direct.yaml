@@ -1,3 +1,3 @@
 payload:
-  - IP-CIDR,8.219.229.128/32,DIRECT
-  - DOMAIN-SUFFIX,flzt.top,DIRECT
+  - IP-CIDR,8.219.229.128/32,DIRECT,no-resolve
+  - DOMAIN-SUFFIX,flzt.top,DIRECT,no-resolve
