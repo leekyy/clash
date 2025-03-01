@@ -1,4 +1,8 @@
-payload:
+prepend: []
+append:
   - IP-CIDR,8.219.229.128/32,DIRECT,no-resolve
   - DOMAIN-SUFFIX,flzt.top,DIRECT,no-resolve
   - DOMAIN-SUFFIX,leek.cool,DIRECT,no-resolve
+delete: []
+
+  
