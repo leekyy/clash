@@ -1,4 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,appstorrent.ru,Proxy
-  - DOMAIN-SUFFIX,leek.cool,Proxy
-  - IP-CIDR,8.219.229.128/16,Proxy
+  - DOMAIN,bt.leek.cool,8.219.229.128
+  - DOMAIN-SUFFIX,leek.cool,8.219.229.128
+  - DOMAIN-SUFFIX,frp.leek.cool,8.219.229.128
+  - DOMAIN-SUFFIX,services.leek.cool,8.219.229.128
+  - IP-CIDR,8.219.229.128/32,8.219.229.128
