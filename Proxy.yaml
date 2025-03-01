@@ -1,2 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,appstorrent.ru,Proxy
+  - IP-CIDR,8.219.229.128/16,Proxy
